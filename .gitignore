@@ -87,3 +87,10 @@ buckifier/__pycache__
 compile_commands.json
 clang-format-diff.py
 .py3/
+java/jmh/.settings/org.eclipse.m2e.core.prefs
+java/jmh/.settings/org.eclipse.jdt.core.prefs
+java/jmh/.settings/org.eclipse.jdt.apt.core.prefs
+java/jmh/.project
+java/jmh/.settings/org.eclipse.core.resources.prefs
+java/jmh/.factorypath
+java/jmh/.classpath

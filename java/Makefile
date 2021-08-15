@@ -31,6 +31,7 @@ NATIVE_JAVA_CLASSES = \
 	org.rocksdb.Env\
 	org.rocksdb.EnvOptions\
 	org.rocksdb.FlinkCompactionFilter\
+	org.rocksdb.FlinkRescalingCompactionFilter\
 	org.rocksdb.FlushOptions\
 	org.rocksdb.Filter\
 	org.rocksdb.IngestExternalFileOptions\
